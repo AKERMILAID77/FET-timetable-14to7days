@@ -3,7 +3,7 @@ This python code converts a 10 days html file created by FET to a 5 days pdf fil
 
 =======================================================================
 
-You to create 10 days like this:
+You have to create 10 days like this:
 1. Sunday (Or any name)
 2. Dim
 3. Monday (Or any name)
